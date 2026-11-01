@@ -3,8 +3,7 @@
 Interactive Formula 1 analytics project built using Tableau Public.
 
 ## 🔗 Live Interactive Dashboard
-👉 **[Click Here to View Live Tableau Dashboard](https://github.com/saanvidixit2103-codes/tableau)**
-
+👉 **[Click Here to View Live Tableau Dashboard](https://public.tableau.com/app/profile/saanvi.dixit2179/viz/f1raceintelligencedashboardfinal/Story1)**
 ---
 
 ## 🏎️ Key Visualizations
