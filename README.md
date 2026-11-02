@@ -17,32 +17,11 @@ Modern Formula 1 racing operations generate multi-terabyte telemetry streams dur
 This repository hosts the complete source code, calculated field formulas, relational schema documentation, and visual artifacts for the Formula 1 Race Intelligence Dashboard & Story System. Analyzing 17 championship seasons (2010–2026) across 29 international circuits, this project unifies 6,464 individual race outcome logs to diagnose the factors separating World Champions from midfield contenders.
 
 🚀 Live Deployments
-
-Component
-
-Platform
-
-Direct Access Link
-
-Production Web Portal
-
-Bolt Cloud Deployment
-
-🌐 Launch Web Application
-
-Interactive Tableau Dashboard
-
-Tableau Public Cloud
-
-📊 Open Tableau Public Dashboard
-
-Source Code & Documentation
-
-GitHub Repository
-
-💻 View GitHub Repository
-
-🎯 Key Highlights & Quantified Findings
+| Component | Platform | Direct Access Link |
+| :--- | :--- | :--- |
+| **Production Web Portal** | Bolt Cloud Deployment | [🌐 Launch Web Application](https://formula-1-race-intel-ok3s.bolt.host) |
+| **Interactive Tableau Dashboard** | Tableau Public Cloud | [📊 Open Tableau Public Dashboard](https://public.tableau.com/app/profile/saanvi.dixit2179/viz/f1raceintelligencedashboardfinal/Story1) |
+| **Source Code & Documentation** | GitHub Repository | [💻 View GitHub Repository](https://github.com/saanvidixit2103-codes/tableau-f1-dashboard) |
 
 ========================================================================================
                           DATASET METRIC SPECIFICATIONS
